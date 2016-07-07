@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/home/nathan/Programming/Android/MyApplication/app/build/intermediates/res/merged/debug/values-v18/values-v18.xml",
+=======
+        "outputFile": "/home/nathan/Programming/Android/turbo-app-engine/app/build/intermediates/res/merged/debug/values-v18/values-v18.xml",
+>>>>>>> 5c4ffb6d6498f2824a0ceaf699c123815ab73521
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 99
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/nathan/Programming/Android/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-v18/values-v18.xml",
+=======
+                    "file": "/home/nathan/Programming/Android/turbo-app-engine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-v18/values-v18.xml",
+>>>>>>> 5c4ffb6d6498f2824a0ceaf699c123815ab73521
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

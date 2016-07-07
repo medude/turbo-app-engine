@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="io.github.medude.myapplication.test">
+=======
+    package="io.github.medude.turbo_app_engine.test">
+>>>>>>> 5c4ffb6d6498f2824a0ceaf699c123815ab73521
 
     <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="24" />
 
@@ -9,8 +13,15 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
+<<<<<<< HEAD
                      android:targetPackage="io.github.medude.myapplication"
                      android:handleProfiling="false"
                      android:functionalTest="false"
                      android:label="Tests for io.github.medude.myapplication"/>
+=======
+                     android:targetPackage="io.github.medude.turbo_app_engine"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for io.github.medude.turbo_app_engine"/>
+>>>>>>> 5c4ffb6d6498f2824a0ceaf699c123815ab73521
 </manifest>

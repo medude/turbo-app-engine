@@ -7,7 +7,11 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+<<<<<<< HEAD
     tools:context="io.github.medude.myapplication.MainActivity">
+=======
+    tools:context="io.github.medude.turbo_app_engine.MainActivity">
+>>>>>>> 5c4ffb6d6498f2824a0ceaf699c123815ab73521
 
     <TextView
         android:layout_width="wrap_content"

@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/home/nathan/Programming/Android/MyApplication/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
+=======
+        "outputFile": "/home/nathan/Programming/Android/turbo-app-engine/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
+>>>>>>> 5c4ffb6d6498f2824a0ceaf699c123815ab73521
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 108
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/nathan/Programming/Android/MyApplication/app/src/main/res/values-w820dp/dimens.xml",
+=======
+                    "file": "/home/nathan/Programming/Android/turbo-app-engine/app/src/main/res/values-w820dp/dimens.xml",
+>>>>>>> 5c4ffb6d6498f2824a0ceaf699c123815ab73521
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

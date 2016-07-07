@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "merged": "/home/nathan/Programming/Android/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
         "source": "/home/nathan/Programming/Android/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+=======
+        "merged": "/home/nathan/Programming/Android/turbo-app-engine/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/home/nathan/Programming/Android/turbo-app-engine/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+>>>>>>> 5c4ffb6d6498f2824a0ceaf699c123815ab73521
     }
 ]
